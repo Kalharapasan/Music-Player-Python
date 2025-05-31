@@ -3,6 +3,8 @@
 
 A visually engaging **desktop MP3 music player** built with Python's Tkinter GUI and `pygame` mixer module. Musicxy provides essential features like loading a playlist, playing, pausing, navigating tracks, and adjusting volume.
 
+![image](https://github.com/user-attachments/assets/a14c0d21-4452-4076-8fa0-7eff5cc8eb22)
+
 ---
 
 ## ✨ Features
